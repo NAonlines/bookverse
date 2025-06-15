@@ -250,7 +250,7 @@ export default function CartPage() {
                            <SelectTrigger className="w-20 rounded-xl border-gray-200">
                               <SelectValue />
                            </SelectTrigger>
-                           <SelectContent>
+                           <SelectContent className="bg-gray-100">
                               <SelectItem value="IN">IN</SelectItem>
                               <SelectItem value="US">US</SelectItem>
                               <SelectItem value="UK">UK</SelectItem>
