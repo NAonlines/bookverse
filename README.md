@@ -4,13 +4,7 @@ This is a Next.js project bootstrapped with create-next-app.
 🛠️ Getting Started
 To get started with development, run:
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<pre lang="markdown">```bash npm run dev # or yarn dev # or pnpm dev # or bun dev ```</pre>
 
 👉 Then open your browser at http://localhost:3000 to view the app.
 
